@@ -1,6 +1,5 @@
 #include <iostream>
 #include <fstream>
-#include <iomanip>
 #include "State.h"
 #include "Automaton.h"
 #include "string"
